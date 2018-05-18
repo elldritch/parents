@@ -1,0 +1,21 @@
+{
+  "name": "parents-calculator",
+  "private": true,
+  "version": "0.0.0",
+  "license": "GPL",
+  "dependencies": {
+    "rxjs": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/csv-parse": "^1.1.11",
+    "csv-parse": "^2.4.0",
+    "pug": "^2.0.3",
+    "ts-loader": "^4.3.0",
+    "ts-node": "^6.0.3",
+    "typescript": "^2.8.3",
+    "webpack": "^4.8.3"
+  },
+  "scripts": {
+    "process-data": "ts-node scripts/process.ts"
+  }
+}

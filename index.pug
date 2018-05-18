@@ -1,0 +1,39 @@
+doctype 5
+
+html
+  head
+    title How many more times will you see your parents before they die?
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.css')
+  body
+    section.hero.is-fullheight
+      .hero-body
+        .container
+          h1.title.has-text-centered(style='line-height: 1.5em;') How many more times will you see your parents before they die?
+          .columns
+            .column.has-text-right.has-text-centered-mobile
+              p.is-size-3 My parents are
+            .column.is-narrow.has-text-centered-mobile(style='width: 8em; margin: 0 auto;')
+              input.input.is-large#age(type='number')
+            .column.has-text-left.has-text-centered-mobile
+              p.is-size-3 years old
+          .columns
+            .column.has-text-right.has-text-centered-mobile
+              p.is-size-3 I visit them
+            .column.is-narrow.has-text-centered-mobile(style='width: 8em; margin: 0 auto;')
+              input.input.is-large#visits(type='number')
+            .column.has-text-left.has-text-centered-mobile
+              p.is-size-3 times a year
+          .columns
+            .column.has-text-right.has-text-centered-mobile
+              p.is-size-3 I will see them
+            .column.is-narrow.has-text-centered-mobile(style='width: 8em; margin: 0 auto;')
+              p.is-size-3.has-text-centered.has-text-black#remaining 0
+            .column.has-text-left.has-text-centered-mobile
+              p.is-size-3 more times before they die
+
+          //- h1.
+          //-   My parents are _ years old
+          //-   I visit them _ times a year
+          //-   I will see them _ more times before they die
+          //- statistics and citations here
+    script(src='/index.js')
