@@ -1,0 +1,1207 @@
+{
+  "year": 2014,
+  "male": {
+    "0": {
+      "deathProbability": 0.006322,
+      "lives": 100000,
+      "expectancy": 76.33
+    },
+    "1": {
+      "deathProbability": 0.000396,
+      "lives": 99368,
+      "expectancy": 75.81
+    },
+    "2": {
+      "deathProbability": 0.000282,
+      "lives": 99328,
+      "expectancy": 74.84
+    },
+    "3": {
+      "deathProbability": 0.000212,
+      "lives": 99300,
+      "expectancy": 73.86
+    },
+    "4": {
+      "deathProbability": 0.000186,
+      "lives": 99279,
+      "expectancy": 72.88
+    },
+    "5": {
+      "deathProbability": 0.000162,
+      "lives": 99261,
+      "expectancy": 71.89
+    },
+    "6": {
+      "deathProbability": 0.000144,
+      "lives": 99245,
+      "expectancy": 70.9
+    },
+    "7": {
+      "deathProbability": 0.000129,
+      "lives": 99231,
+      "expectancy": 69.91
+    },
+    "8": {
+      "deathProbability": 0.000114,
+      "lives": 99218,
+      "expectancy": 68.92
+    },
+    "9": {
+      "deathProbability": 0.0001,
+      "lives": 99206,
+      "expectancy": 67.93
+    },
+    "10": {
+      "deathProbability": 0.000093,
+      "lives": 99197,
+      "expectancy": 66.94
+    },
+    "11": {
+      "deathProbability": 0.000101,
+      "lives": 99187,
+      "expectancy": 65.94
+    },
+    "12": {
+      "deathProbability": 0.000136,
+      "lives": 99177,
+      "expectancy": 64.95
+    },
+    "13": {
+      "deathProbability": 0.000205,
+      "lives": 99164,
+      "expectancy": 63.96
+    },
+    "14": {
+      "deathProbability": 0.000299,
+      "lives": 99144,
+      "expectancy": 62.97
+    },
+    "15": {
+      "deathProbability": 0.000401,
+      "lives": 99114,
+      "expectancy": 61.99
+    },
+    "16": {
+      "deathProbability": 0.000505,
+      "lives": 99074,
+      "expectancy": 61.02
+    },
+    "17": {
+      "deathProbability": 0.00062,
+      "lives": 99024,
+      "expectancy": 60.05
+    },
+    "18": {
+      "deathProbability": 0.000747,
+      "lives": 98963,
+      "expectancy": 59.08
+    },
+    "19": {
+      "deathProbability": 0.000879,
+      "lives": 98889,
+      "expectancy": 58.13
+    },
+    "20": {
+      "deathProbability": 0.001019,
+      "lives": 98802,
+      "expectancy": 57.18
+    },
+    "21": {
+      "deathProbability": 0.001151,
+      "lives": 98701,
+      "expectancy": 56.24
+    },
+    "22": {
+      "deathProbability": 0.001252,
+      "lives": 98588,
+      "expectancy": 55.3
+    },
+    "23": {
+      "deathProbability": 0.001309,
+      "lives": 98464,
+      "expectancy": 54.37
+    },
+    "24": {
+      "deathProbability": 0.001335,
+      "lives": 98335,
+      "expectancy": 53.44
+    },
+    "25": {
+      "deathProbability": 0.001349,
+      "lives": 98204,
+      "expectancy": 52.51
+    },
+    "26": {
+      "deathProbability": 0.001369,
+      "lives": 98072,
+      "expectancy": 51.58
+    },
+    "27": {
+      "deathProbability": 0.001391,
+      "lives": 97937,
+      "expectancy": 50.65
+    },
+    "28": {
+      "deathProbability": 0.001422,
+      "lives": 97801,
+      "expectancy": 49.72
+    },
+    "29": {
+      "deathProbability": 0.001459,
+      "lives": 97662,
+      "expectancy": 48.79
+    },
+    "30": {
+      "deathProbability": 0.001498,
+      "lives": 97520,
+      "expectancy": 47.86
+    },
+    "31": {
+      "deathProbability": 0.001536,
+      "lives": 97373,
+      "expectancy": 46.93
+    },
+    "32": {
+      "deathProbability": 0.001576,
+      "lives": 97224,
+      "expectancy": 46
+    },
+    "33": {
+      "deathProbability": 0.001616,
+      "lives": 97071,
+      "expectancy": 45.07
+    },
+    "34": {
+      "deathProbability": 0.001661,
+      "lives": 96914,
+      "expectancy": 44.15
+    },
+    "35": {
+      "deathProbability": 0.001716,
+      "lives": 96753,
+      "expectancy": 43.22
+    },
+    "36": {
+      "deathProbability": 0.001782,
+      "lives": 96587,
+      "expectancy": 42.29
+    },
+    "37": {
+      "deathProbability": 0.001854,
+      "lives": 96415,
+      "expectancy": 41.37
+    },
+    "38": {
+      "deathProbability": 0.001931,
+      "lives": 96236,
+      "expectancy": 40.44
+    },
+    "39": {
+      "deathProbability": 0.002018,
+      "lives": 96050,
+      "expectancy": 39.52
+    },
+    "40": {
+      "deathProbability": 0.002123,
+      "lives": 95856,
+      "expectancy": 38.6
+    },
+    "41": {
+      "deathProbability": 0.002252,
+      "lives": 95653,
+      "expectancy": 37.68
+    },
+    "42": {
+      "deathProbability": 0.002413,
+      "lives": 95437,
+      "expectancy": 36.76
+    },
+    "43": {
+      "deathProbability": 0.002611,
+      "lives": 95207,
+      "expectancy": 35.85
+    },
+    "44": {
+      "deathProbability": 0.002845,
+      "lives": 94958,
+      "expectancy": 34.95
+    },
+    "45": {
+      "deathProbability": 0.003109,
+      "lives": 94688,
+      "expectancy": 34.04
+    },
+    "46": {
+      "deathProbability": 0.003402,
+      "lives": 94394,
+      "expectancy": 33.15
+    },
+    "47": {
+      "deathProbability": 0.003736,
+      "lives": 94073,
+      "expectancy": 32.26
+    },
+    "48": {
+      "deathProbability": 0.004114,
+      "lives": 93721,
+      "expectancy": 31.38
+    },
+    "49": {
+      "deathProbability": 0.004533,
+      "lives": 93336,
+      "expectancy": 30.51
+    },
+    "50": {
+      "deathProbability": 0.004987,
+      "lives": 92913,
+      "expectancy": 29.64
+    },
+    "51": {
+      "deathProbability": 0.005473,
+      "lives": 92449,
+      "expectancy": 28.79
+    },
+    "52": {
+      "deathProbability": 0.005997,
+      "lives": 91943,
+      "expectancy": 27.94
+    },
+    "53": {
+      "deathProbability": 0.00656,
+      "lives": 91392,
+      "expectancy": 27.11
+    },
+    "54": {
+      "deathProbability": 0.007159,
+      "lives": 90792,
+      "expectancy": 26.29
+    },
+    "55": {
+      "deathProbability": 0.007803,
+      "lives": 90142,
+      "expectancy": 25.47
+    },
+    "56": {
+      "deathProbability": 0.00848,
+      "lives": 89439,
+      "expectancy": 24.67
+    },
+    "57": {
+      "deathProbability": 0.00917,
+      "lives": 88681,
+      "expectancy": 23.87
+    },
+    "58": {
+      "deathProbability": 0.009863,
+      "lives": 87867,
+      "expectancy": 23.09
+    },
+    "59": {
+      "deathProbability": 0.010572,
+      "lives": 87001,
+      "expectancy": 22.32
+    },
+    "60": {
+      "deathProbability": 0.011354,
+      "lives": 86081,
+      "expectancy": 21.55
+    },
+    "61": {
+      "deathProbability": 0.012202,
+      "lives": 85104,
+      "expectancy": 20.79
+    },
+    "62": {
+      "deathProbability": 0.013061,
+      "lives": 84065,
+      "expectancy": 20.04
+    },
+    "63": {
+      "deathProbability": 0.01392,
+      "lives": 82967,
+      "expectancy": 19.3
+    },
+    "64": {
+      "deathProbability": 0.014819,
+      "lives": 81812,
+      "expectancy": 18.57
+    },
+    "65": {
+      "deathProbability": 0.015826,
+      "lives": 80600,
+      "expectancy": 17.84
+    },
+    "66": {
+      "deathProbability": 0.016986,
+      "lives": 79324,
+      "expectancy": 17.12
+    },
+    "67": {
+      "deathProbability": 0.018295,
+      "lives": 77977,
+      "expectancy": 16.4
+    },
+    "68": {
+      "deathProbability": 0.019776,
+      "lives": 76550,
+      "expectancy": 15.7
+    },
+    "69": {
+      "deathProbability": 0.021448,
+      "lives": 75036,
+      "expectancy": 15.01
+    },
+    "70": {
+      "deathProbability": 0.02338,
+      "lives": 73427,
+      "expectancy": 14.32
+    },
+    "71": {
+      "deathProbability": 0.025549,
+      "lives": 71710,
+      "expectancy": 13.66
+    },
+    "72": {
+      "deathProbability": 0.027885,
+      "lives": 69878,
+      "expectancy": 13
+    },
+    "73": {
+      "deathProbability": 0.030374,
+      "lives": 67930,
+      "expectancy": 12.36
+    },
+    "74": {
+      "deathProbability": 0.033099,
+      "lives": 65866,
+      "expectancy": 11.73
+    },
+    "75": {
+      "deathProbability": 0.036254,
+      "lives": 63686,
+      "expectancy": 11.11
+    },
+    "76": {
+      "deathProbability": 0.039882,
+      "lives": 61377,
+      "expectancy": 10.51
+    },
+    "77": {
+      "deathProbability": 0.043879,
+      "lives": 58930,
+      "expectancy": 9.93
+    },
+    "78": {
+      "deathProbability": 0.048256,
+      "lives": 56344,
+      "expectancy": 9.36
+    },
+    "79": {
+      "deathProbability": 0.053123,
+      "lives": 53625,
+      "expectancy": 8.81
+    },
+    "80": {
+      "deathProbability": 0.058711,
+      "lives": 50776,
+      "expectancy": 8.28
+    },
+    "81": {
+      "deathProbability": 0.065081,
+      "lives": 47795,
+      "expectancy": 7.76
+    },
+    "82": {
+      "deathProbability": 0.072139,
+      "lives": 44685,
+      "expectancy": 7.27
+    },
+    "83": {
+      "deathProbability": 0.079912,
+      "lives": 41461,
+      "expectancy": 6.8
+    },
+    "84": {
+      "deathProbability": 0.088529,
+      "lives": 38148,
+      "expectancy": 6.34
+    },
+    "85": {
+      "deathProbability": 0.098148,
+      "lives": 34771,
+      "expectancy": 5.91
+    },
+    "86": {
+      "deathProbability": 0.108902,
+      "lives": 31358,
+      "expectancy": 5.5
+    },
+    "87": {
+      "deathProbability": 0.120886,
+      "lives": 27943,
+      "expectancy": 5.11
+    },
+    "88": {
+      "deathProbability": 0.134149,
+      "lives": 24565,
+      "expectancy": 4.74
+    },
+    "89": {
+      "deathProbability": 0.148699,
+      "lives": 21270,
+      "expectancy": 4.4
+    },
+    "90": {
+      "deathProbability": 0.164525,
+      "lives": 18107,
+      "expectancy": 4.08
+    },
+    "91": {
+      "deathProbability": 0.1816,
+      "lives": 15128,
+      "expectancy": 3.79
+    },
+    "92": {
+      "deathProbability": 0.199884,
+      "lives": 12381,
+      "expectancy": 3.52
+    },
+    "93": {
+      "deathProbability": 0.219331,
+      "lives": 9906,
+      "expectancy": 3.27
+    },
+    "94": {
+      "deathProbability": 0.239886,
+      "lives": 7733,
+      "expectancy": 3.05
+    },
+    "95": {
+      "deathProbability": 0.260269,
+      "lives": 5878,
+      "expectancy": 2.85
+    },
+    "96": {
+      "deathProbability": 0.280109,
+      "lives": 4348,
+      "expectancy": 2.68
+    },
+    "97": {
+      "deathProbability": 0.299013,
+      "lives": 3130,
+      "expectancy": 2.53
+    },
+    "98": {
+      "deathProbability": 0.316578,
+      "lives": 2194,
+      "expectancy": 2.39
+    },
+    "99": {
+      "deathProbability": 0.332406,
+      "lives": 1500,
+      "expectancy": 2.27
+    },
+    "100": {
+      "deathProbability": 0.349027,
+      "lives": 1001,
+      "expectancy": 2.15
+    },
+    "101": {
+      "deathProbability": 0.366478,
+      "lives": 652,
+      "expectancy": 2.04
+    },
+    "102": {
+      "deathProbability": 0.384802,
+      "lives": 413,
+      "expectancy": 1.93
+    },
+    "103": {
+      "deathProbability": 0.404042,
+      "lives": 254,
+      "expectancy": 1.83
+    },
+    "104": {
+      "deathProbability": 0.424244,
+      "lives": 151,
+      "expectancy": 1.73
+    },
+    "105": {
+      "deathProbability": 0.445456,
+      "lives": 87,
+      "expectancy": 1.63
+    },
+    "106": {
+      "deathProbability": 0.467729,
+      "lives": 48,
+      "expectancy": 1.54
+    },
+    "107": {
+      "deathProbability": 0.491116,
+      "lives": 26,
+      "expectancy": 1.45
+    },
+    "108": {
+      "deathProbability": 0.515671,
+      "lives": 13,
+      "expectancy": 1.36
+    },
+    "109": {
+      "deathProbability": 0.541455,
+      "lives": 6,
+      "expectancy": 1.28
+    },
+    "110": {
+      "deathProbability": 0.568528,
+      "lives": 3,
+      "expectancy": 1.2
+    },
+    "111": {
+      "deathProbability": 0.596954,
+      "lives": 1,
+      "expectancy": 1.13
+    },
+    "112": {
+      "deathProbability": 0.626802,
+      "lives": 1,
+      "expectancy": 1.05
+    },
+    "113": {
+      "deathProbability": 0.658142,
+      "lives": 0,
+      "expectancy": 0.98
+    },
+    "114": {
+      "deathProbability": 0.691049,
+      "lives": 0,
+      "expectancy": 0.92
+    },
+    "115": {
+      "deathProbability": 0.725602,
+      "lives": 0,
+      "expectancy": 0.86
+    },
+    "116": {
+      "deathProbability": 0.761882,
+      "lives": 0,
+      "expectancy": 0.79
+    },
+    "117": {
+      "deathProbability": 0.799976,
+      "lives": 0,
+      "expectancy": 0.74
+    },
+    "118": {
+      "deathProbability": 0.839975,
+      "lives": 0,
+      "expectancy": 0.68
+    },
+    "119": {
+      "deathProbability": 0.881973,
+      "lives": 0,
+      "expectancy": 0.63
+    }
+  },
+  "female": {
+    "0": {
+      "deathProbability": 0.005313,
+      "lives": 100000,
+      "expectancy": 81.11
+    },
+    "1": {
+      "deathProbability": 0.000346,
+      "lives": 99469,
+      "expectancy": 80.54
+    },
+    "2": {
+      "deathProbability": 0.000221,
+      "lives": 99434,
+      "expectancy": 79.57
+    },
+    "3": {
+      "deathProbability": 0.000162,
+      "lives": 99412,
+      "expectancy": 78.59
+    },
+    "4": {
+      "deathProbability": 0.000131,
+      "lives": 99396,
+      "expectancy": 77.6
+    },
+    "5": {
+      "deathProbability": 0.000116,
+      "lives": 99383,
+      "expectancy": 76.61
+    },
+    "6": {
+      "deathProbability": 0.000106,
+      "lives": 99372,
+      "expectancy": 75.62
+    },
+    "7": {
+      "deathProbability": 0.000098,
+      "lives": 99361,
+      "expectancy": 74.63
+    },
+    "8": {
+      "deathProbability": 0.000091,
+      "lives": 99351,
+      "expectancy": 73.64
+    },
+    "9": {
+      "deathProbability": 0.000086,
+      "lives": 99342,
+      "expectancy": 72.64
+    },
+    "10": {
+      "deathProbability": 0.000084,
+      "lives": 99334,
+      "expectancy": 71.65
+    },
+    "11": {
+      "deathProbability": 0.000087,
+      "lives": 99325,
+      "expectancy": 70.66
+    },
+    "12": {
+      "deathProbability": 0.0001,
+      "lives": 99317,
+      "expectancy": 69.66
+    },
+    "13": {
+      "deathProbability": 0.000124,
+      "lives": 99307,
+      "expectancy": 68.67
+    },
+    "14": {
+      "deathProbability": 0.000157,
+      "lives": 99294,
+      "expectancy": 67.68
+    },
+    "15": {
+      "deathProbability": 0.000194,
+      "lives": 99279,
+      "expectancy": 66.69
+    },
+    "16": {
+      "deathProbability": 0.000232,
+      "lives": 99260,
+      "expectancy": 65.7
+    },
+    "17": {
+      "deathProbability": 0.000269,
+      "lives": 99237,
+      "expectancy": 64.72
+    },
+    "18": {
+      "deathProbability": 0.000304,
+      "lives": 99210,
+      "expectancy": 63.73
+    },
+    "19": {
+      "deathProbability": 0.000338,
+      "lives": 99180,
+      "expectancy": 62.75
+    },
+    "20": {
+      "deathProbability": 0.000373,
+      "lives": 99146,
+      "expectancy": 61.77
+    },
+    "21": {
+      "deathProbability": 0.000409,
+      "lives": 99109,
+      "expectancy": 60.8
+    },
+    "22": {
+      "deathProbability": 0.000442,
+      "lives": 99069,
+      "expectancy": 59.82
+    },
+    "23": {
+      "deathProbability": 0.000471,
+      "lives": 99025,
+      "expectancy": 58.85
+    },
+    "24": {
+      "deathProbability": 0.000497,
+      "lives": 98978,
+      "expectancy": 57.87
+    },
+    "25": {
+      "deathProbability": 0.000524,
+      "lives": 98929,
+      "expectancy": 56.9
+    },
+    "26": {
+      "deathProbability": 0.000553,
+      "lives": 98877,
+      "expectancy": 55.93
+    },
+    "27": {
+      "deathProbability": 0.000582,
+      "lives": 98822,
+      "expectancy": 54.96
+    },
+    "28": {
+      "deathProbability": 0.000611,
+      "lives": 98765,
+      "expectancy": 53.99
+    },
+    "29": {
+      "deathProbability": 0.000641,
+      "lives": 98705,
+      "expectancy": 53.03
+    },
+    "30": {
+      "deathProbability": 0.000673,
+      "lives": 98641,
+      "expectancy": 52.06
+    },
+    "31": {
+      "deathProbability": 0.00071,
+      "lives": 98575,
+      "expectancy": 51.1
+    },
+    "32": {
+      "deathProbability": 0.000753,
+      "lives": 98505,
+      "expectancy": 50.13
+    },
+    "33": {
+      "deathProbability": 0.000805,
+      "lives": 98431,
+      "expectancy": 49.17
+    },
+    "34": {
+      "deathProbability": 0.000864,
+      "lives": 98351,
+      "expectancy": 48.21
+    },
+    "35": {
+      "deathProbability": 0.000932,
+      "lives": 98266,
+      "expectancy": 47.25
+    },
+    "36": {
+      "deathProbability": 0.001005,
+      "lives": 98175,
+      "expectancy": 46.29
+    },
+    "37": {
+      "deathProbability": 0.001082,
+      "lives": 98076,
+      "expectancy": 45.34
+    },
+    "38": {
+      "deathProbability": 0.00116,
+      "lives": 97970,
+      "expectancy": 44.39
+    },
+    "39": {
+      "deathProbability": 0.001243,
+      "lives": 97856,
+      "expectancy": 43.44
+    },
+    "40": {
+      "deathProbability": 0.001336,
+      "lives": 97735,
+      "expectancy": 42.49
+    },
+    "41": {
+      "deathProbability": 0.001442,
+      "lives": 97604,
+      "expectancy": 41.55
+    },
+    "42": {
+      "deathProbability": 0.001562,
+      "lives": 97463,
+      "expectancy": 40.61
+    },
+    "43": {
+      "deathProbability": 0.001698,
+      "lives": 97311,
+      "expectancy": 39.67
+    },
+    "44": {
+      "deathProbability": 0.001849,
+      "lives": 97146,
+      "expectancy": 38.74
+    },
+    "45": {
+      "deathProbability": 0.002014,
+      "lives": 96966,
+      "expectancy": 37.81
+    },
+    "46": {
+      "deathProbability": 0.002195,
+      "lives": 96771,
+      "expectancy": 36.88
+    },
+    "47": {
+      "deathProbability": 0.002402,
+      "lives": 96559,
+      "expectancy": 35.96
+    },
+    "48": {
+      "deathProbability": 0.002639,
+      "lives": 96327,
+      "expectancy": 35.05
+    },
+    "49": {
+      "deathProbability": 0.002903,
+      "lives": 96072,
+      "expectancy": 34.14
+    },
+    "50": {
+      "deathProbability": 0.003189,
+      "lives": 95794,
+      "expectancy": 33.24
+    },
+    "51": {
+      "deathProbability": 0.003488,
+      "lives": 95488,
+      "expectancy": 32.34
+    },
+    "52": {
+      "deathProbability": 0.003795,
+      "lives": 95155,
+      "expectancy": 31.45
+    },
+    "53": {
+      "deathProbability": 0.004105,
+      "lives": 94794,
+      "expectancy": 30.57
+    },
+    "54": {
+      "deathProbability": 0.004423,
+      "lives": 94405,
+      "expectancy": 29.7
+    },
+    "55": {
+      "deathProbability": 0.004775,
+      "lives": 93987,
+      "expectancy": 28.83
+    },
+    "56": {
+      "deathProbability": 0.005153,
+      "lives": 93539,
+      "expectancy": 27.96
+    },
+    "57": {
+      "deathProbability": 0.005528,
+      "lives": 93057,
+      "expectancy": 27.1
+    },
+    "58": {
+      "deathProbability": 0.005893,
+      "lives": 92542,
+      "expectancy": 26.25
+    },
+    "59": {
+      "deathProbability": 0.006266,
+      "lives": 91997,
+      "expectancy": 25.4
+    },
+    "60": {
+      "deathProbability": 0.006688,
+      "lives": 91420,
+      "expectancy": 24.56
+    },
+    "61": {
+      "deathProbability": 0.007176,
+      "lives": 90809,
+      "expectancy": 23.72
+    },
+    "62": {
+      "deathProbability": 0.007724,
+      "lives": 90157,
+      "expectancy": 22.89
+    },
+    "63": {
+      "deathProbability": 0.008339,
+      "lives": 89461,
+      "expectancy": 22.07
+    },
+    "64": {
+      "deathProbability": 0.009034,
+      "lives": 88715,
+      "expectancy": 21.25
+    },
+    "65": {
+      "deathProbability": 0.009832,
+      "lives": 87914,
+      "expectancy": 20.44
+    },
+    "66": {
+      "deathProbability": 0.01074,
+      "lives": 87049,
+      "expectancy": 19.63
+    },
+    "67": {
+      "deathProbability": 0.011754,
+      "lives": 86114,
+      "expectancy": 18.84
+    },
+    "68": {
+      "deathProbability": 0.012881,
+      "lives": 85102,
+      "expectancy": 18.06
+    },
+    "69": {
+      "deathProbability": 0.014141,
+      "lives": 84006,
+      "expectancy": 17.29
+    },
+    "70": {
+      "deathProbability": 0.015612,
+      "lives": 82818,
+      "expectancy": 16.53
+    },
+    "71": {
+      "deathProbability": 0.017275,
+      "lives": 81525,
+      "expectancy": 15.78
+    },
+    "72": {
+      "deathProbability": 0.019047,
+      "lives": 80117,
+      "expectancy": 15.05
+    },
+    "73": {
+      "deathProbability": 0.020909,
+      "lives": 78591,
+      "expectancy": 14.34
+    },
+    "74": {
+      "deathProbability": 0.022939,
+      "lives": 76947,
+      "expectancy": 13.63
+    },
+    "75": {
+      "deathProbability": 0.025297,
+      "lives": 75182,
+      "expectancy": 12.94
+    },
+    "76": {
+      "deathProbability": 0.028045,
+      "lives": 73280,
+      "expectancy": 12.26
+    },
+    "77": {
+      "deathProbability": 0.031131,
+      "lives": 71225,
+      "expectancy": 11.6
+    },
+    "78": {
+      "deathProbability": 0.034582,
+      "lives": 69008,
+      "expectancy": 10.96
+    },
+    "79": {
+      "deathProbability": 0.038467,
+      "lives": 66621,
+      "expectancy": 10.33
+    },
+    "80": {
+      "deathProbability": 0.043008,
+      "lives": 64059,
+      "expectancy": 9.73
+    },
+    "81": {
+      "deathProbability": 0.048175,
+      "lives": 61304,
+      "expectancy": 9.14
+    },
+    "82": {
+      "deathProbability": 0.053772,
+      "lives": 58350,
+      "expectancy": 8.58
+    },
+    "83": {
+      "deathProbability": 0.05977,
+      "lives": 55213,
+      "expectancy": 8.04
+    },
+    "84": {
+      "deathProbability": 0.066367,
+      "lives": 51913,
+      "expectancy": 7.52
+    },
+    "85": {
+      "deathProbability": 0.073828,
+      "lives": 48467,
+      "expectancy": 7.01
+    },
+    "86": {
+      "deathProbability": 0.082382,
+      "lives": 44889,
+      "expectancy": 6.53
+    },
+    "87": {
+      "deathProbability": 0.092183,
+      "lives": 41191,
+      "expectancy": 6.08
+    },
+    "88": {
+      "deathProbability": 0.103305,
+      "lives": 37394,
+      "expectancy": 5.64
+    },
+    "89": {
+      "deathProbability": 0.115746,
+      "lives": 33531,
+      "expectancy": 5.23
+    },
+    "90": {
+      "deathProbability": 0.129475,
+      "lives": 29650,
+      "expectancy": 4.85
+    },
+    "91": {
+      "deathProbability": 0.144443,
+      "lives": 25811,
+      "expectancy": 4.5
+    },
+    "92": {
+      "deathProbability": 0.16059,
+      "lives": 22083,
+      "expectancy": 4.18
+    },
+    "93": {
+      "deathProbability": 0.177853,
+      "lives": 18536,
+      "expectancy": 3.88
+    },
+    "94": {
+      "deathProbability": 0.196165,
+      "lives": 15240,
+      "expectancy": 3.61
+    },
+    "95": {
+      "deathProbability": 0.214677,
+      "lives": 12250,
+      "expectancy": 3.37
+    },
+    "96": {
+      "deathProbability": 0.233091,
+      "lives": 9620,
+      "expectancy": 3.16
+    },
+    "97": {
+      "deathProbability": 0.251082,
+      "lives": 7378,
+      "expectancy": 2.96
+    },
+    "98": {
+      "deathProbability": 0.268304,
+      "lives": 5525,
+      "expectancy": 2.79
+    },
+    "99": {
+      "deathProbability": 0.284403,
+      "lives": 4043,
+      "expectancy": 2.63
+    },
+    "100": {
+      "deathProbability": 0.301467,
+      "lives": 2893,
+      "expectancy": 2.48
+    },
+    "101": {
+      "deathProbability": 0.319555,
+      "lives": 2021,
+      "expectancy": 2.33
+    },
+    "102": {
+      "deathProbability": 0.338728,
+      "lives": 1375,
+      "expectancy": 2.19
+    },
+    "103": {
+      "deathProbability": 0.359052,
+      "lives": 909,
+      "expectancy": 2.06
+    },
+    "104": {
+      "deathProbability": 0.380595,
+      "lives": 583,
+      "expectancy": 1.93
+    },
+    "105": {
+      "deathProbability": 0.403431,
+      "lives": 361,
+      "expectancy": 1.81
+    },
+    "106": {
+      "deathProbability": 0.427637,
+      "lives": 215,
+      "expectancy": 1.69
+    },
+    "107": {
+      "deathProbability": 0.453295,
+      "lives": 123,
+      "expectancy": 1.58
+    },
+    "108": {
+      "deathProbability": 0.480492,
+      "lives": 67,
+      "expectancy": 1.47
+    },
+    "109": {
+      "deathProbability": 0.509322,
+      "lives": 35,
+      "expectancy": 1.37
+    },
+    "110": {
+      "deathProbability": 0.539881,
+      "lives": 17,
+      "expectancy": 1.27
+    },
+    "111": {
+      "deathProbability": 0.572274,
+      "lives": 8,
+      "expectancy": 1.18
+    },
+    "112": {
+      "deathProbability": 0.606611,
+      "lives": 3,
+      "expectancy": 1.09
+    },
+    "113": {
+      "deathProbability": 0.643007,
+      "lives": 1,
+      "expectancy": 1.01
+    },
+    "114": {
+      "deathProbability": 0.681588,
+      "lives": 0,
+      "expectancy": 0.93
+    },
+    "115": {
+      "deathProbability": 0.722483,
+      "lives": 0,
+      "expectancy": 0.86
+    },
+    "116": {
+      "deathProbability": 0.761882,
+      "lives": 0,
+      "expectancy": 0.79
+    },
+    "117": {
+      "deathProbability": 0.799976,
+      "lives": 0,
+      "expectancy": 0.74
+    },
+    "118": {
+      "deathProbability": 0.839975,
+      "lives": 0,
+      "expectancy": 0.68
+    },
+    "119": {
+      "deathProbability": 0.881973,
+      "lives": 0,
+      "expectancy": 0.63
+    }
+  }
+}
