@@ -19,7 +19,7 @@ const age$ = getNumber$(age!);
 const visits$ = getNumber$(visits!);
 const remaining$ = combineLatest<number, number>(age$, visits$).pipe(
   map(([age, visits]) => {
-    const birthYear = new Date().getFullYear() - age;
+    const birthYear = Math.floor(new Date().getFullYear() - age);
     const expectancy = data['USA'].years[birthYear] || 79;
     return (expectancy - age) * visits;
   })
