@@ -3,7 +3,7 @@ doctype 5
 html
   head
     title How many more times will you see your parents before they die?
-    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.css')
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma.css')
   body
     section.hero.is-fullheight
       .hero-body
@@ -30,6 +30,9 @@ html
               p.is-size-3.has-text-centered.has-text-black#remaining 0
             .column.has-text-left.has-text-centered-mobile
               p.is-size-3 more times before they die
+          p.has-text-centered.mt-5.
+            This calculator is <a target="_blank" href="https://github.com/liftM/parents">open source</a>.<br />Life expectancy
+            data is sourced from the <a target="_blank" href="https://www.ssa.gov/oact/STATS/table4c6.html">US SSA</a> and
+            <a target="_blank" href="https://data.worldbank.org/indicator/SP.DYN.LE00.IN">World Bank Group</a>.
 
-          //- statistics and citations here
     script(src='/index.js')
